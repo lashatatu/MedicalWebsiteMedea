@@ -78,32 +78,34 @@
             <br>
             <h2 class="text-center text-white">Contact Us</h2>
 
-            <form>
+            <form method="POST" action="mailto:lashatatu@gmail.com" enctype="text/plain">
                 <div class="form-group">
                     <label for="forNameSurname" class="text-center text-white h5">
                         სახელი გვარი
                     </label>
-                    <input type="text" class="form-control" placeholder="john doe" id="forNameSurname">
+                    <input type="text" name="name" class="form-control" placeholder="john doe" id="forNameSurname">
                 </div>
                 <div class="form-group">
                     <label for="forPhoneNumber" class="text-center text-white h5">
                         ტელეფონი
                     </label>
-                    <input type="text" class="form-control" placeholder="+995-(***)-**-**-**" id="forPhoneNumber">
+                    <input type="tel" name="phone" class="form-control" placeholder="+995-(***)-**-**-**" id="forPhoneNumber">
                 </div>
                 <div class="form-group">
                     <label for="forEmail" class="text-center text-white h5">
                         ელექტრონული ფოსტა
                     </label>
-                    <input type="email" class="form-control" id="forEmail" placeholder="name@example.com">
+                    <input type="email" name="email" class="form-control" id="forEmail" placeholder="name@example.com">
                 </div>
 
                 <div class="form-group">
                     <label for="forTextImput" class="text-center text-white h5">
                         შეტყობინება
                     </label>
-                    <textarea class="form-control" id="forTextImput" rows="3"></textarea>
+                    <textarea name="message" class="form-control" id="forTextImput" rows="3"></textarea>
                 </div>
+                <br>
+                <input type="submit" value="გაგზავნა" class="btn-primary">
             </form>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
