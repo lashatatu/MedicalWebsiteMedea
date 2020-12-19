@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>პერსონალური ტრენინგი</title>
+    <!-- Bootstrap core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/app.css">
+    <!-- Custom styles for this template -->
+
+    <link href="../carousel.css" rel="stylesheet">
+    <link href="../main.css" rel="stylesheet">
+</head>
+<body>
+<header class="pb-4">
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top bgbg-color">
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+            <ul class="navbar-nav mb-2 mb-md-0 my-auto">
+                <!--                    მთავარი გვერდის მენიუს ღილაკი -->
+                <li class="nav-item btn">
+                    <a class="nav-link text-white" aria-current="page" href="../index.html">მთავარი</a>
+                </li>
+                <li class="nav-item btn">
+                    <div class="dropdown">
+                        <button class="btn dropdown-toggle text-white" type="button" id="dropdownMenuButton"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            ჩვენს შესახებ
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                            <a class="dropdown-item btn bg-primary" href="vision.html">ხედვა</a>
+                            <a class="dropdown-item" href="about-future.html">შესახებ</a>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-item btn">
+                    <a class="nav-link text-white" href="why-future.html">რატომ მომავალი?</a>
+                </li>
+                <li class="nav-item btn">
+                    <a class="nav-link text-white" href="faq.html">ხშირად დასმული კითხვები</a>
+                </li>
+                <li class="nav-item btn">
+                    <a class="nav-link text-white" href="products.html">პროდუქტები</a>
+                </li>
+                <li class="nav-item btn">
+                    <a class="nav-link text-white" href="cases.html">ქეისები</a>
+                </li>
+                <li class="nav-item btn">
+                    <a class="nav-link text-white" href="contact-us.html">კონტაქტი</a>
+                </li>
+            </ul>
+        </div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03"
+                aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand text-white " href="#">საიტის სახელი/ლოგო</a>
+    </nav>
+</header>
+<div class="container mt-xl-5 mt-lg-5">
+    <div class="row">
+        <div class="col-xl-4 col-lg-4 col-md-12">
+            <div id="accordion">
+                <div class="card bgbg-color">
+                    <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseOne"
+                            aria-expanded="true" aria-controls="collapseOne">
+                        ჩვენს შესახებ
+                    </button>
+                    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                        <a class="card btn bg-dark text-white" href="vision.html"> ხედვა</a>
+                        <a class="card btn bg-dark text-white" href="about-future.html"> შესახებ</a>
+                    </div>
+                </div>
+                <div class="card btn btn-primary bg-primary text-white">
+                    <a class="btn btn-primary bg-primary text-white" href="why-future.html"> რატომ მომავალი?</a>
+                    <a class="btn btn-primary bg-primary text-white" href="faq.html"> ხშირად დასმული კითხვები</a>
+                    <a class="btn btn-primary bg-primary text-white" href="products.html"> პროდუქტები</a>
+                    <a class="btn btn-primary bg-primary text-white" href="cases.html"> ქეისები</a>
+                </div>
+            </div>
+            <br>
+            <h2 class="text-center text-white">Contact Us</h2>
+
+            <form method="POST" action="mailto:lashatatu@gmail.com" enctype="text/plain">
+                <div class="form-group">
+                    <label for="forNameSurname" class="text-center text-white h5">
+                        სახელი გვარი
+                    </label>
+                    <input type="text" name="name" class="form-control" placeholder="john doe" id="forNameSurname">
+                </div>
+                <div class="form-group">
+                    <label for="forPhoneNumber" class="text-center text-white h5">
+                        ტელეფონი
+                    </label>
+                    <input type="tel" name="phone" class="form-control" placeholder="+995-(***)-**-**-**"
+                           id="forPhoneNumber">
+                </div>
+                <div class="form-group">
+                    <label for="forEmail" class="text-center text-white h5">
+                        ელექტრონული ფოსტა
+                    </label>
+                    <input type="email" name="email" class="form-control" id="forEmail" placeholder="name@example.com">
+                </div>
+
+                <div class="form-group">
+                    <label for="forTextImput" class="text-center text-white h5">
+                        შეტყობინება
+                    </label>
+                    <textarea name="message" class="form-control" id="forTextImput" rows="3"></textarea>
+                </div>
+                <br>
+                <input type="submit" value="გაგზავნა" class="btn-primary">
+            </form>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+
+
+        <div class="col-xl-8 col-lg-8 col-md-12">
+            <div class="text-center text-white h2">სწავლება და ტრენინგები</div>
+            <div class="btn-primary bg-white text-white" id="lineForLine">a</div>
+            <br>
+            <div class="text-white h5">
+                FUTURE უზრუნველყოფს კლიენტებს ტრენინგებით და პაციენტების მონიტორინგის მომსახურებით, რათა იმპლანტაციისა
+                და რეაბილიტაციის პროცესმა კარგად ჩაიაროს. სპეციალურად მორგებული პერსონალური ტრენინგისა და შემდგომი
+                დახმარების საშუალებით შესაძლებელია მუდმივად გაუმჯობესდეს თითოეული სტომატოლოგის ცოდნა იმპლანტაციისა და
+                რეაბილიტაციის საკითხებში, რაც დაეხმარება მათ გახდნენ წამყვანი პროფესიონალები ამ სფეროში.
+
+                ტრენინგებისა და მის შემდგომ პერიოდში აუცილებელია პრაქტიკული უნარ-ჩვევების გამომუშავება.
+                რათა თითოეულ სტომატოლოგს წარმატებით შეეძლოს FUTURE-ს პროდუქტების გამოყენება მკურნალობისა და
+                სარეაბილიტაციო პროგრამებში. კომპანიის მიერ ტრენინგის დროს მიღებული პროდუქტების დეტალური გაცნობა
+                საშუალებას აძლევს სტომატოლოგს შეარჩიოს საუკეთესო ინდივიდუალური მკურნალობა პაციენტებისთვის.
+
+            </div>
+            <br>
+            <div class="text-white text-center h2">ჩვენი მომსახურება</div>
+            <br>
+            <div class="text-white h5">
+                <ul>
+                    <li>ტრენინგი თქვენსავე კლინიკაში - ტრენინგი ყოვლისმომცველია და ტარდება კომპანიის პროფესიონალთა
+                        გუნდის მიერ, რომელიც კლინიკაში ჩადის შესაბამისი აპარატურით, რომლითაც სტომატოლოგია
+                        დაინტერესებული, ჩვენ გთავაზობთ სრულყოფილ ინფორმაციას, რათა სტომატოლოგმა შეძლოს პროფესიონალური
+                        მომსახურების გაწევა.
+                    </li>
+                    <li>•ესტუმრეთ FUTURE-ს - ყველა კლიენტს აქვს შესაძლებლობა გვეწვიოს ჩვენს სათაო ოფისში და თავად
+                        დაესწროს მუშაობის ყველა ეტაპს. სტუმრები უზრუნველყოფილნი იქნებიან სრული ინფორმაციით პროდუქციისა
+                        და იმპლანტაციის პროცესის შესახებ.
+                    </li>
+                    <li>24 საათიანი დახმარება - ჩვენი პერსონალი 24 საათის განმავლობაში ხელმისაწვდომია, ჩვენ გაგიწევთ
+                        დახმარებას ყველა სახის პრობლემის გადაჭრასა და ინფორმაციის მოწოდებაში.
+                    </li>
+                </ul>
+                FUTURE გთავაზობთ მომსახურებასა და პროდუქტებს მთელ მსოფლიოში. ჩვენი პროდუქცია წარმატებით გამოიყენება
+                ევროპაში, კანადაში, შეერთებულ შტატებსა და ისრაელში. ჩვენ გთავაზობთ მრავალფეროვან პროდუქტებს, რომელიც
+                მხარდაჭერილია პროფესიონალისზმის მაღალი დონით და უზრუნველყოფს თითოეული კლიენტის კმაყოფილებას.
+            </div>
+
+            <br>
+            <div class="text-white text-center h2">ყურადღება და დაკვირვება</div>
+            <br>
+            <div class="text-white h5">
+                FUTURE კლიენტებთან ხანგრძლივ თანამშრომლობას უყრის საფუძველს. მრავალი კლიენტი რჩება ჩვენთან წლების
+                განმავლობაში, რადგან ჩვენ ვთავაზობთ გამორჩეულ სერვისს: პროფესიონალთა გუნდს, დეტალურ მონაცემებს,
+                პროდუქტების მრავალფეროვან ასორტიმენტსა და მუდმივ ინოვაციებს. მას შემდეგ, რაც სტომატოლოგი გახდება ჩვენი
+                კლიენტი, ის მიიღებს სასწავლო მასალას, რომელიც შექმნილია წამყვანი პროფესიონალების მიერ. FUTURE თვლის, რომ
+                ინდივიდუალური ყურადღება და ხელმისაწვდომობა არის ძალიან მნიშვნელოვანი ფაქტორი, რომელსაც სტომატოლოგები
+                ითვალისწინებენ პარტნიორი კომპანიების არჩევისას. მნიშვნელოვანია, რომ FUTURE-ს შესწევს ძალა დააკმაყოფილოს
+                ნებისმიერ მოთხოვნა და გადაჭრას ყველა პრობლემა.
+            </div>
+            <br>
+            <div class="text-white text-center h2">ჩვენი დამოკიდებულება კლიენტებისადმი</div>
+            <br>
+            <div class="text-white h5">
+                მომსახურების პაკეტის გარდა, რომელსაც ჩვენ ვთავაზობთ კლიენტებს, სტომატოლოგებისათვის მნიშვნელოვანია იმის
+                გარანტია, რომ მოწოდებული ინფორმაცია არის განახლებული და პროფესიონალური, შეესაბამება ყველა თანამედროვე
+                სტანდარტს და ეფუძნება კვლევის უახლეს მონაცემებს. იმის უზრუნველსაყოფად, რომ ყველა თანამშრომელი გაეცნოს
+                უახლეს მიღწევებს და პროდუქციის ასორტიმენტს ჩვენი პერსონალი რეგულარულად ესწრება განახლების შესაბამის
+                პროფესიონალურ კურსებს, სემინარებსა და ტრენინგებს.
+
+                FUTURE ყურადღებით ეკიდება ტექნოლოგიის განვითარებას და ახალ კვლევებს. როდესაც სტომატოლოგები ირჩევენ
+                პარტნიორად FUTURE-ს, ისინი ირჩევენ საუკეთესო კომპანიას, რომელიც არასოდეს ტოვებს თავის კლიენტებს მარტო
+                მკურნალობისა და რეაბილიტაციის პროცესში. FUTURE რჩება თქვენს გვერდზე პროცესის დასაწყისიდან საუკეთესო
+                შედეგის მიღწევამდე.
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+        integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.5.4/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/js/bootstrap.min.js"
+        integrity="sha512-8qmis31OQi6hIRgvkht0s6mCOittjMa9GMqtK9hes5iEQBQE/Ca6yGE5FsW36vyipGoWQswBj/QBm2JR086Rkw=="
+        crossorigin="anonymous"></script>
+</body>
+</html>
