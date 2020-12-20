@@ -10,11 +10,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="update part of georgian text">
-      <change afterPath="$PROJECT_DIR$/pages/FYI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/training.html" afterDir="false" />
+    <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="bellow update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/FYI.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/FYI.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cases.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cases.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/training.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/training.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/vision.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/vision.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/why-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/why-future.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +69,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/pages/why-future.html" />
   </component>
   <component name="RecentsManager">
@@ -139,7 +145,8 @@
       <workItem from="1608248785409" duration="2517000" />
       <workItem from="1608295945065" duration="10000" />
       <workItem from="1608335842561" duration="5783000" />
-      <workItem from="1608341969580" duration="1736000" />
+      <workItem from="1608341969580" duration="2022000" />
+      <workItem from="1608424971785" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary="updated side nav">
       <created>1607902778254</created>
@@ -183,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608341040457</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="bellow update">
+      <created>1608343791879</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608343791879</updated>
+    </task>
+    <task id="LOCAL-00008" summary="bellow update">
+      <created>1608343982692</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608343982692</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +227,8 @@
     <MESSAGE value="page mistake update" />
     <MESSAGE value="updated side nav" />
     <MESSAGE value="update part of georgian text" />
-    <option name="LAST_COMMIT_MESSAGE" value="update part of georgian text" />
+    <MESSAGE value="bellow update" />
+    <option name="LAST_COMMIT_MESSAGE" value="bellow update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="679" y="414" key="#Stylelint" timestamp="1607827923213">
@@ -276,15 +298,16 @@
     </state>
     <state width="1877" height="342" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608180310111" />
     <state width="1877" height="342" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608341634097" />
-    <state x="880" y="103" key="SettingsEditor" timestamp="1607895252265">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="2034" y="178" key="SettingsEditor" timestamp="1608343825987">
+      <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="880" y="103" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607895252265" />
-    <state x="2472" y="258" key="Vcs.Push.Dialog.v2" timestamp="1608341056533">
+    <state x="2034" y="178" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608343825987" />
+    <state x="2472" y="258" key="Vcs.Push.Dialog.v2" timestamp="1608343985348">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608180302993" />
-    <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608341056533" />
+    <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608343985348" />
     <state x="342" y="183" key="new project wizard" timestamp="1607851332809">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
