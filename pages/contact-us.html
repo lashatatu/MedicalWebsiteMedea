@@ -57,7 +57,7 @@
 </header>
 <div class="container mt-xl-5 mt-lg-5">
     <div class="row">
-        <div class="col-xl-4 col-lg-4 col-md-12">
+        <div class="col-xl-3 col-lg-3 col-md-12">
             <div id="accordion">
                 <div class="card bgbg-color">
                     <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseOne"
@@ -70,7 +70,7 @@
                     </div>
                 </div>
                 <div class="card btn btn-primary bg-primary text-white">
-                    <a class="btn btn-primary bg-primary text-white" href="why-future.html"> რატომ FUTURE??</a>
+                    <a class="btn btn-primary bg-primary text-white" href="why-future.html"> რატომ FUTURE?</a>
                     <a class="btn btn-primary bg-primary text-white" href="faq.html"> ხშირად დასმული კითხვები</a>
                     <a class="btn btn-primary bg-primary text-white" href="products.html"> პროდუქტები</a>
                     <a class="btn btn-primary bg-primary text-white" href="cases.html"> ქეისები</a>
@@ -82,12 +82,63 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
         </div>
+        <div class="col-xl-9 col-lg-9 col-md-12">
+            <div class="text-white text-center h1">
+                საკონტაქტო ინფორმაცია
+            </div>
 
+            <form class="text-white h5">
+                <div class="form-group row">
+                    <label for="staticEmail" class="col-sm-3 col-form-label h5">ემაილი:</label>
+                    <div class="col-sm-9">
+                        <input type="text" readonly class="form-control-plaintext text-white h5" id="staticEmail" value="medeaadam11@gmail.com">
+                    </div>
 
+                </div>
+                <div class="form-group row">
+                    <label for="inputPhone" class="col-sm-3 col-form-label">ტელეფონი:</label>
+                    <div class="col-sm-9">
+                        <input type="text" readonly class="form-control-plaintext text-white h5" id="inputPhone" value="+(995)557-68-18-78">
+                    </div>
+                </div>
+            </form>
+            <form method="POST" action="mailto:medeaadam11@gmail.com" enctype="text/plain">
+                <div class="form-group">
+                    <div >
+                        <label for="forNameSurname" class="text-center text-white h5">
+                            სახელი გვარი
+                        </label>
+                    </div>
+                    <div >
+                        <input type="text" name="name" class="form-control" placeholder="john doe" id="forNameSurname">
+                    </div>
 
-        <div class="col-9">
+                </div>
+                <div class="form-group">
+                    <label for="forPhoneNumber" class="text-center text-white h5">
+                        ტელეფონი
+                    </label>
+                    <input type="tel" name="phone" class="form-control" placeholder="+995-(***)-**-**-**"
+                           id="forPhoneNumber">
+                </div>
+                <div class="form-group">
+                    <label for="forEmail" class="text-center text-white h5">
+                        ელექტრონული ფოსტა
+                    </label>
+                    <input type="email" name="email" class="form-control" id="forEmail" placeholder="name@example.com">
+                </div>
 
+                <div class="form-group">
+                    <label for="forTextImput" class="text-center text-white h5">
+                        შეტყობინება
+                    </label>
+                    <textarea name="message" class="form-control" id="forTextImput" rows="3"></textarea>
+                </div>
+                <br>
+                <input type="submit" value="გაგზავნა" class="btn-primary">
+            </form>
         </div>
+
 
     </div>
 </div>
