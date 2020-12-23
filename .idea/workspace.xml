@@ -11,13 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="bellow update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/FYI.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/FYI.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/about-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about-future.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cases.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cases.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/faq.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/training.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/training.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/vision.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/vision.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/why-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/why-future.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FUTURE-inside-pages-28-11-16.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/FUTURE-inside-pages-28-11-16.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +147,8 @@
       <workItem from="1608295945065" duration="10000" />
       <workItem from="1608335842561" duration="5783000" />
       <workItem from="1608341969580" duration="2022000" />
-      <workItem from="1608424971785" duration="3267000" />
+      <workItem from="1608424971785" duration="3374000" />
+      <workItem from="1608689962260" duration="894000" />
     </task>
     <task id="LOCAL-00001" summary="updated side nav">
       <created>1607902778254</created>
@@ -222,7 +227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608428149586</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="bellow update">
+      <created>1608428274394</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608428274394</updated>
+    </task>
+    <task id="LOCAL-00013" summary="bellow update">
+      <created>1608428304752</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608428304752</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,10 +340,10 @@
     </state>
     <state x="880" y="103" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607895252265" />
     <state x="2034" y="178" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608343825987" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1608428151395">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1608428308386">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608428151395" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608428308386" />
     <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608343985348" />
     <state x="342" y="183" key="new project wizard" timestamp="1607851332809">
       <screen x="0" y="0" width="1920" height="1050" />
