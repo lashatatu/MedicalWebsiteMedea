@@ -10,7 +10,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="bellow update" />
+    <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="bellow update">
+      <change afterPath="$PROJECT_DIR$/eng/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eng/pages/FYI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eng/pages/about-future.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eng/pages/cases.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eng/pages/contact-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eng/pages/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eng/pages/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eng/pages/training.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eng/pages/vision.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eng/pages/why-future.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about-future.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/vision.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/vision.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/why-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/why-future.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +61,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/about-future.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/eng/pages/about-future.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -59,9 +75,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="copyright" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/pages/about-future.html" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/eng/pages/about-future.html" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\myPortfolio\Medical website\src" />
+      <recent name="P:\myPortfolio\Medical website\pics" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="P:\myPortfolio\Medical website\src" />
       <recent name="P:\myPortfolio\Medical website\pages" />
@@ -69,13 +89,12 @@
       <recent name="P:\myPortfolio\Medical website" />
       <recent name="P:\myPortfolio\Medical website\js" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="P:\myPortfolio\Medical website\src" />
-      <recent name="P:\myPortfolio\Medical website\pics" />
-    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.training.html">
+  <component name="RunManager" selected="JavaScript Debug.main.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Medical website/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Medical website/eng/main.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="training.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Medical website/pages/training.html" useBuiltInWebServerPort="true">
@@ -86,9 +105,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.main.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.training.html" />
         <item itemvalue="JavaScript Debug.vision.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +160,8 @@
       <workItem from="1608698394161" duration="2484000" />
       <workItem from="1608740078107" duration="767000" />
       <workItem from="1608779083227" duration="1322000" />
+      <workItem from="1608786069670" duration="270000" />
+      <workItem from="1608909033300" duration="3630000" />
     </task>
     <task id="LOCAL-00001" summary="updated side nav">
       <created>1607902778254</created>
@@ -260,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608779798389</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="bellow update">
+      <created>1608786263192</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1608786263192</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,15 +326,15 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1059" y="379" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607811266905" />
-    <state x="97" y="112" width="1736" height="866" maximized="true" key="DiffContextDialog" timestamp="1608428242421">
+    <state x="97" y="112" width="1736" height="866" maximized="true" key="DiffContextDialog" timestamp="1608910486390">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="85" y="40" width="1736" height="866" maximized="true" key="DiffContextDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608428242421" />
+    <state x="85" y="40" width="1736" height="866" maximized="true" key="DiffContextDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608910486390" />
     <state x="97" y="112" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608339472413" />
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1608428164138">
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1608910403857">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608428164138" />
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608910403857" />
     <state x="744" y="212" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608339410693" />
     <state x="823" y="423" key="Github.ShareDialog" timestamp="1607827788880">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -360,10 +389,10 @@
     </state>
     <state x="880" y="103" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607895252265" />
     <state x="2034" y="178" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608343825987" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1608779802927">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1608786267513">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608779802927" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608786267513" />
     <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608343985348" />
     <state x="342" y="183" key="new project wizard" timestamp="1607851332809">
       <screen x="0" y="0" width="1920" height="1050" />
