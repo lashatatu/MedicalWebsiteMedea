@@ -1,4 +1,90 @@
-.bgbg-color{
+.bgbg-color {
     background-image: linear-gradient(to right, #00c9a7, #00c6ad, #00c2b2, #00bfb7, #00bbba, #00b8bd, #00b4bf, #00b1c1, #00adc3, #00a9c5, #00a4c6, #00a0c7);
 }
 
+a{
+    text-decoration: none;
+}
+
+
+.selected-lang {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    line-height: 2;
+    width: 100px;
+}
+
+.selected-lang:before {
+    content: '';
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-image: url(https://www.countryflags.io/ge/shiny/32.png);
+}
+.selected-lang-eng {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    line-height: 2;
+    width: 100px;
+}
+
+.selected-lang-eng:before {
+    content: '';
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-image: url(https://www.countryflags.io/us/shiny/32.png);
+}
+
+#logoMargin {
+    margin-left: 40px;
+}
+
+.lang-menu ul {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    border: 1px solid #f8f8f8;
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    display: none;
+    position: absolute;
+}
+
+.lang-menu ul li {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lang-menu ul li a {
+    width: 140px;
+    display: block;
+    padding: 5px 10px;
+}
+
+.lang-menu ul li a:before {
+    content: '';
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.lang-menu ul li a:hover {
+    background-color: #f2f2f2;
+}
+
+.ka:before{
+    background-image: url(https://www.countryflags.io/ge/shiny/32.png);
+}
+.en:before{
+    background-image: url(https://www.countryflags.io/us/shiny/32.png);
+}
+
+.lang-menu:hover ul{
+    display: block;
+}
