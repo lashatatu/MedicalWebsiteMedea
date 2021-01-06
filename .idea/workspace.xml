@@ -10,12 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="english update">
-      <change afterPath="$PROJECT_DIR$/pics/medea-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/medea-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/medea-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/medea-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/medea-project.png" afterDir="false" />
+    <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="photos update">
+      <change afterPath="$PROJECT_DIR$/pics/medea-2-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/medea-3-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/medea-4-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/medea-5-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/medea-project-1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eng/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -165,7 +165,8 @@
       <workItem from="1609355247520" duration="59000" />
       <workItem from="1609787519838" duration="187000" />
       <workItem from="1609791550061" duration="179000" />
-      <workItem from="1609931537540" duration="3447000" />
+      <workItem from="1609931537540" duration="4104000" />
+      <workItem from="1609937411951" duration="730000" />
     </task>
     <task id="LOCAL-00001" summary="updated side nav">
       <created>1607902778254</created>
@@ -356,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609050417274</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="photos update">
+      <created>1609935045683</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1609935045683</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,7 +390,8 @@
     <MESSAGE value="faq error corrected" />
     <MESSAGE value="bellow update" />
     <MESSAGE value="english update" />
-    <option name="LAST_COMMIT_MESSAGE" value="english update" />
+    <MESSAGE value="photos update" />
+    <option name="LAST_COMMIT_MESSAGE" value="photos update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="679" y="414" key="#Stylelint" timestamp="1607827923213">
@@ -394,16 +403,16 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1059" y="379" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607811266905" />
-    <state x="97" y="112" width="1736" height="866" maximized="true" key="DiffContextDialog" timestamp="1608960010063">
+    <state x="97" y="112" width="1736" height="866" key="DiffContextDialog" timestamp="1609936060256">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="85" y="40" width="1736" height="866" maximized="true" key="DiffContextDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608960010063" />
-    <state x="97" y="112" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608339472413" />
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1608960002012">
+    <state x="97" y="112" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1609936060256" />
+    <state x="97" y="112" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1609934869783" />
+    <state x="744" y="212" key="FileChooserDialogImpl" timestamp="1609934869775">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608960002012" />
-    <state x="744" y="212" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608339410693" />
+    <state x="744" y="212" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1609934869775" />
     <state x="823" y="423" key="Github.ShareDialog" timestamp="1607827788880">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -457,10 +466,10 @@
     </state>
     <state x="880" y="103" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607895252265" />
     <state x="2034" y="178" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608343825987" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1609050418970">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1609935047620">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1609050418970" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1609935047620" />
     <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1609047019554" />
     <state x="342" y="183" key="new project wizard" timestamp="1607851332809">
       <screen x="0" y="0" width="1920" height="1050" />
