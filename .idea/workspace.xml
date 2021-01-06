@@ -11,7 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="english update">
+      <change afterPath="$PROJECT_DIR$/pics/medea-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/medea-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/medea-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/medea-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/medea-project.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +54,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/eng/pages/about-future.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -61,19 +68,19 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="copyright" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/eng/pages/about-future.html" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/index.html" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\myPortfolio\Medical website\pics" />
+      <recent name="P:\myPortfolio\Medical website\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="P:\myPortfolio\Medical website\src" />
       <recent name="P:\myPortfolio\Medical website\pages" />
       <recent name="P:\myPortfolio\Medical website\pics" />
       <recent name="P:\myPortfolio\Medical website" />
       <recent name="P:\myPortfolio\Medical website\js" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="P:\myPortfolio\Medical website\src" />
-      <recent name="P:\myPortfolio\Medical website\pics" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -153,6 +160,12 @@
       <workItem from="1609044355075" duration="2505000" />
       <workItem from="1609046962029" duration="64000" />
       <workItem from="1609047243661" duration="313000" />
+      <workItem from="1609050270505" duration="159000" />
+      <workItem from="1609239188083" duration="14000" />
+      <workItem from="1609355247520" duration="59000" />
+      <workItem from="1609787519838" duration="187000" />
+      <workItem from="1609791550061" duration="179000" />
+      <workItem from="1609931537540" duration="3447000" />
     </task>
     <task id="LOCAL-00001" summary="updated side nav">
       <created>1607902778254</created>
@@ -336,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609047356205</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="english update">
+      <created>1609050417274</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1609050417274</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,10 +457,10 @@
     </state>
     <state x="880" y="103" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607895252265" />
     <state x="2034" y="178" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608343825987" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1609047359348">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1609050418970">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1609047359348" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1609050418970" />
     <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1609047019554" />
     <state x="342" y="183" key="new project wizard" timestamp="1607851332809">
       <screen x="0" y="0" width="1920" height="1050" />
