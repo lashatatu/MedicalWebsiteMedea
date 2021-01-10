@@ -11,14 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="photos update">
-      <change afterPath="$PROJECT_DIR$/pics/medea-2-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/medea-3-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/medea-4-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/medea-5-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/medea-project-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/future-implants.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about-future.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +28,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -67,20 +63,20 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/index.html" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="P:\myPortfolio\Medical website\pics" />
-      <recent name="P:\myPortfolio\Medical website\src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\myPortfolio\Medical website\videos" />
       <recent name="P:\myPortfolio\Medical website\src" />
       <recent name="P:\myPortfolio\Medical website\pages" />
       <recent name="P:\myPortfolio\Medical website\pics" />
       <recent name="P:\myPortfolio\Medical website" />
-      <recent name="P:\myPortfolio\Medical website\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\myPortfolio\Medical website\pics" />
+      <recent name="P:\myPortfolio\Medical website\src" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -166,7 +162,12 @@
       <workItem from="1609787519838" duration="187000" />
       <workItem from="1609791550061" duration="179000" />
       <workItem from="1609931537540" duration="4104000" />
-      <workItem from="1609937411951" duration="730000" />
+      <workItem from="1609937411951" duration="1353000" />
+      <workItem from="1610027676966" duration="44000" />
+      <workItem from="1610027735038" duration="759000" />
+      <workItem from="1610083529919" duration="35000" />
+      <workItem from="1610229541920" duration="41000" />
+      <workItem from="1610308144533" duration="1815000" />
     </task>
     <task id="LOCAL-00001" summary="updated side nav">
       <created>1607902778254</created>
@@ -364,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609935045683</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="photos update">
+      <created>1609938614625</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1609938614625</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,15 +469,15 @@
     </state>
     <state width="1877" height="342" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1608180310111" />
     <state width="1877" height="342" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608341634097" />
-    <state x="2034" y="178" key="SettingsEditor" timestamp="1608343825987">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="880" y="103" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1607895252265" />
-    <state x="2034" y="178" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608343825987" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1609935047620">
+    <state x="216" y="2" width="1636" height="954" key="SettingsEditor" timestamp="1610030188271">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1609935047620" />
+    <state x="216" y="2" width="1636" height="954" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1610030188271" />
+    <state x="2034" y="178" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608343825987" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1609938617276">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1609938617276" />
     <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1609047019554" />
     <state x="342" y="183" key="new project wizard" timestamp="1607851332809">
       <screen x="0" y="0" width="1920" height="1050" />
