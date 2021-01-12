@@ -163,6 +163,7 @@
       <workItem from="1610083529919" duration="35000" />
       <workItem from="1610229541920" duration="41000" />
       <workItem from="1610308144533" duration="2636000" />
+      <workItem from="1610352274738" duration="61000" />
     </task>
     <task id="LOCAL-00001" summary="updated side nav">
       <created>1607902778254</created>
@@ -388,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610310181284</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="photos update">
+      <created>1610352305061</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1610352305061</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,10 +498,10 @@
     </state>
     <state x="216" y="2" width="1636" height="954" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1610030188271" />
     <state x="2034" y="178" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608343825987" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1610310184078">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1610352309594">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1610310184078" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1610352309594" />
     <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1609047019554" />
     <state x="342" y="183" key="new project wizard" timestamp="1607851332809">
       <screen x="0" y="0" width="1920" height="1050" />
