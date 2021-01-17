@@ -10,7 +10,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="photos update" />
+    <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="photos update">
+      <change beforePath="$PROJECT_DIR$/eng/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/FYI.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/FYI.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/about-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/about-future.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/training.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/training.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/vision.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/vision.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/why-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/why-future.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/FYI.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/FYI.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about-future.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/training.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/training.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/vision.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/vision.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/why-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/why-future.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +183,7 @@
       <workItem from="1610229541920" duration="41000" />
       <workItem from="1610308144533" duration="2636000" />
       <workItem from="1610352274738" duration="61000" />
-      <workItem from="1610840967816" duration="297000" />
+      <workItem from="1610840967816" duration="750000" />
     </task>
     <task id="LOCAL-00001" summary="updated side nav">
       <created>1607902778254</created>
@@ -404,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610841118230</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="photos update">
+      <created>1610841351379</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1610841351379</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,11 +532,11 @@
     </state>
     <state x="216" y="2" width="1636" height="954" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1610030188271" />
     <state x="2034" y="178" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608343825987" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1610352309594">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1610841354446">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1610352309594" />
-    <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1609047019554" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1610841354446" />
+    <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1610841123678" />
     <state x="342" y="183" key="new project wizard" timestamp="1607851332809">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
