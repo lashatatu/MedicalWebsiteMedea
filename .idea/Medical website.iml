@@ -10,5 +10,6 @@
     <orderEntry type="library" exported="" name="jquery" level="application" />
     <orderEntry type="library" exported="" name="twitter-bootstrap" level="application" />
     <orderEntry type="library" exported="" name="jquery-3.5.1.slim" level="application" />
+    <orderEntry type="library" name="bootstrap" level="application" />
   </component>
 </module>
