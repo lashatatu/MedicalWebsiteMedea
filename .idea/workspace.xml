@@ -11,11 +11,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="photos update">
+      <change afterPath="$PROJECT_DIR$/pics/photo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/photo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/photo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/photo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/unnamed.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Medical website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Medical website.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/FYI.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/FYI.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about-future.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cases.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cases.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/training.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/training.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/vision.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/vision.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/why-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/why-future.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/medea-2-2.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +75,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pics" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -77,16 +93,16 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\myPortfolio\Medical website\pics" />
+      <recent name="P:\myPortfolio\Medical website" />
+      <recent name="P:\myPortfolio\Medical website\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\myPortfolio\Medical website\pics" />
       <recent name="P:\myPortfolio\Medical website" />
       <recent name="P:\myPortfolio\Medical website\pics\thumbnail" />
       <recent name="P:\myPortfolio\Medical website\videos" />
-      <recent name="P:\myPortfolio\Medical website\src" />
-      <recent name="P:\myPortfolio\Medical website\pages" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="P:\myPortfolio\Medical website" />
-      <recent name="P:\myPortfolio\Medical website\pics" />
       <recent name="P:\myPortfolio\Medical website\src" />
     </key>
   </component>
@@ -193,6 +209,16 @@
       <workItem from="1615360742216" duration="27000" />
       <workItem from="1616259845594" duration="1955000" />
       <workItem from="1619306730827" duration="661000" />
+      <workItem from="1619464080963" duration="740000" />
+      <workItem from="1621452387020" duration="893000" />
+      <workItem from="1621511811899" duration="599000" />
+      <workItem from="1621530137754" duration="3563000" />
+      <workItem from="1621535795497" duration="1267000" />
+      <workItem from="1621537346214" duration="5000" />
+      <workItem from="1621537896889" duration="7990000" />
+      <workItem from="1621677229458" duration="585000" />
+      <workItem from="1621677823556" duration="411000" />
+      <workItem from="1621678251622" duration="1071000" />
     </task>
     <task id="LOCAL-00001" summary="updated side nav">
       <created>1607902778254</created>
@@ -488,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611341264155</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="photos update">
+      <created>1619464206235</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1619464206235</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -499,7 +532,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
