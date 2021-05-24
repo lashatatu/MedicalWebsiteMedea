@@ -10,22 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="photos update">
-      <change afterPath="$PROJECT_DIR$/pics/droebiti1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/droebiti2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng/pages/FYI.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/FYI.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng/pages/about-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/about-future.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng/pages/cases.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/cases.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/contact-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng/pages/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng/pages/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng/pages/training.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/training.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng/pages/vision.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/vision.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eng/pages/why-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/why-future.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="photos update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -214,14 +199,7 @@
       <workItem from="1621678251622" duration="1422000" />
       <workItem from="1621680165007" duration="1195000" />
       <workItem from="1621682453352" duration="988000" />
-      <workItem from="1621864523231" duration="1992000" />
-    </task>
-    <task id="LOCAL-00001" summary="updated side nav">
-      <created>1607902778254</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1607902778254</updated>
+      <workItem from="1621864523231" duration="2058000" />
     </task>
     <task id="LOCAL-00002" summary="page mistake update">
       <created>1607903061075</created>
@@ -559,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621683066473</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="photos update">
+      <created>1621866570198</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1621866570199</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
