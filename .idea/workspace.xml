@@ -11,7 +11,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="photos update">
+      <change afterPath="$PROJECT_DIR$/pics/droebiti1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/droebiti2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/FYI.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/FYI.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/about-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/about-future.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/cases.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/cases.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/training.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/training.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/vision.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/vision.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng/pages/why-future.html" beforeDir="false" afterPath="$PROJECT_DIR$/eng/pages/why-future.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +68,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/eng/pages/about-future.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -69,7 +82,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/index.html" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/eng/pages/about-future.html" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -86,7 +99,7 @@
       <recent name="P:\myPortfolio\Medical website\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.main.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Medical website/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -101,8 +114,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.main.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.training.html" />
         <item itemvalue="JavaScript Debug.vision.html" />
       </list>
@@ -200,7 +213,8 @@
       <workItem from="1621677823556" duration="411000" />
       <workItem from="1621678251622" duration="1422000" />
       <workItem from="1621680165007" duration="1195000" />
-      <workItem from="1621682453352" duration="582000" />
+      <workItem from="1621682453352" duration="988000" />
+      <workItem from="1621864523231" duration="1992000" />
     </task>
     <task id="LOCAL-00001" summary="updated side nav">
       <created>1607902778254</created>
@@ -538,7 +552,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621681269050</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="photos update">
+      <created>1621683066473</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1621683066473</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
