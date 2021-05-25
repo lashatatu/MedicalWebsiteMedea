@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="photos update" />
+    <list default="true" id="7a81fb98-ff1a-4882-830c-670db951fe8c" name="Default Changelist" comment="photos update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/eng/pages/about-future.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pics" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -72,8 +74,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="P:\myPortfolio\Medical website" />
       <recent name="P:\myPortfolio\Medical website\pics" />
+      <recent name="P:\myPortfolio\Medical website" />
       <recent name="P:\myPortfolio\Medical website\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -201,13 +203,9 @@
       <workItem from="1621682453352" duration="988000" />
       <workItem from="1621864523231" duration="2058000" />
       <workItem from="1621866747027" duration="590000" />
-    </task>
-    <task id="LOCAL-00004" summary="updated side nav">
-      <created>1608251428320</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1608251428320</updated>
+      <workItem from="1621961502800" duration="231000" />
+      <workItem from="1621961770029" duration="10000" />
+      <workItem from="1621962860379" duration="2000" />
     </task>
     <task id="LOCAL-00005" summary="update part of georgian text">
       <created>1608339437229</created>
@@ -545,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621867323020</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="photos update">
+      <created>1621961679700</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1621961679700</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
